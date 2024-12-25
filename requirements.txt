@@ -1,0 +1,5 @@
+vedo
+numpy==1.26.4
+open3d
+scipy
+pyvista
